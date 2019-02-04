@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/toastynerd/hbsify",
   "dependencies": {
-    "handlebars": "^1.x",
+    "handlebars": "^4.x",
     "through": "^2.3.4"
   },
   "devDependencies": {
